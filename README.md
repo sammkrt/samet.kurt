@@ -1,4 +1,4 @@
-# About ME
+# Samet Kurt
 # 💫 About Me:
 🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Data Analysis.<br>🤔 I’m looking for help with Python, R, SQL.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - samet.krt@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: My favorite film is Star Wars.
 
